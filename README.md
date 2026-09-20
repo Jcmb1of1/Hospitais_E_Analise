@@ -17,7 +17,7 @@
 - estabelecimentos_por_estado - Apresenta um gráfico de estabelecimentos de saúde por estado.
 
 ## Como executar na sua máquina.
-1 - Clone o repositório 
-2 - Instale as bibliotecas pandas e matplotlib
-3 - Utilize os métodos da área "Funcionalidades".
-4 - Execute o projeto!
+1. Clone o repositório
+2. Instale as bibliotecas pandas e matplotlib
+3. Utilize os métodos da área "Funcionalidades".
+4. Execute o projeto!
